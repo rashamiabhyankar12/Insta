@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "gro",
+    "slug": "gro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon-512.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rashami.gro",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icon-512.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.rashami.gro"
+    },
+    "web": {
+      "favicon": "./src/assets/icon-512.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d7453531-26f9-4065-9b4e-bef2d27591ff"
+      }
+    },
+    "owner": "rashami123"
+  }
+}
