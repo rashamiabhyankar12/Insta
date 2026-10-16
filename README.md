@@ -1,3 +1,6 @@
+<img width="1376" height="768" alt="figmamobileposter" src="https://github.com/user-attachments/assets/a25c8eb6-4198-440a-9d5f-ae3f74f0ca73" />
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
