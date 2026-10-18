@@ -5,7 +5,7 @@
 
 You can view the app designs and prototype on Figma:
 
-- Figma file: https://www.figma.com/community/file/1693502122624639815
+- Figma file: https://www.figma.com/community/file/1693787547161015048
 
 
 # Welcome to your Expo app 👋
